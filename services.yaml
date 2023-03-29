@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nodeserver
-        image: anypraj12/project_4:latest
+        image: anypraj12/project_6:latest
         ports:
         - containerPort: 3000
         
